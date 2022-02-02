@@ -37,7 +37,7 @@ class SavingsApp extends StatelessWidget {
                 height: 35,
               ),
               Text(
-                'No more wasting money!\n Introducing the easiest way to save money',
+                'No more wasting money!!\n Introducing the easiest way to save money',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 18,
